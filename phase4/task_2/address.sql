@@ -1,0 +1,16 @@
+INSERT INTO address VALUES('C01','1500 Sugar Bowl Dr');
+INSERT INTO address VALUES('C02','1501 Dave Dixon Dr');
+INSERT INTO address VALUES('C03','2000 Lakeshore Dr');
+INSERT INTO address VALUES('C04','1380 Port of New Orleans');
+INSERT INTO address VALUES('C06','945 Magazine St');
+INSERT INTO address VALUES('C07','800 Decatur St');
+INSERT INTO address VALUES('C08','1 Collins Diboll Cir');
+INSERT INTO address VALUES('C09','6801 Franklin Ave');
+INSERT INTO address VALUES('C01','6500 Magazine St');
+INSERT INTO address VALUES('C01','1751 Gentilly Blvd');
+INSERT INTO address VALUES('C03','615 Pere Antoine Alley');
+INSERT INTO address VALUES('C04','1111 Canal St');
+INSERT INTO address VALUES('C06','545 St Charles Ave');
+INSERT INTO address VALUES('C07','701 N Rampart St');
+INSERT INTO address VALUES('C08','1 Canal St');
+COMMIT;

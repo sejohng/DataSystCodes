@@ -1,0 +1,76 @@
+
+C_NAME                                            
+--------------------------------------------------
+Will Smith
+Margot Robbie
+Ryan Gosling
+Dwayne Johnson
+Tom Hanks
+Idris Elba
+Gal Gadot
+Will Ferrell
+
+8 rows selected. 
+
+
+L_P  TOTALSOLD
+--- ----------
+P05        227
+P20        106
+P18         69
+P19         48
+P02         37
+P16         36
+P03         34
+P07         34
+P11         25
+P01         25
+P17         25
+
+L_P  TOTALSOLD
+--- ----------
+P15         25
+P09         20
+P10         17
+P14         15
+P04         13
+P08         11
+P06         10
+P13         10
+P12         10
+
+20 rows selected. 
+
+
+P_NAME                                            
+--------------------------------------------------
+Taylor Swift Ticket
+Pralines
+Harry Styles Ticket
+Lizzo Ticket
+Tony Chachere's
+Coffee
+Alvin Kamara Jersey
+1 lb of Crawfish
+Jazz Fest Ticket
+1 lb of Boudin
+Streetcar Ticket
+
+P_NAME                                            
+--------------------------------------------------
+Audubon Zoo Ticket
+1 Dozen Oysters
+Jazz at the Sandbar Ticket
+Snoball
+Frozen Coffee
+Saints Ticket
+
+17 rows selected. 
+
+
+C_NAME                                            
+--------------------------------------------------
+Ryan Gosling
+Idris Elba
+Chris Evans
+

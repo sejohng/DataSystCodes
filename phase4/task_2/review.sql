@@ -1,0 +1,13 @@
+INSERT INTO review VALUES('P02',1,4,'Almost new—cover is a bit dirty/bent but bought new. Good authentic book though');
+INSERT INTO review VALUES('P02',2,5,'It''s a great book for college level database courses.');
+INSERT INTO review VALUES('P02',3,5,'This textbook is getting me through my databases study unit at University without it I''d be lost. The book is well organised and the explanations are clear with many examples and diagrams. The shipping time was incredible.');
+INSERT INTO review VALUES('P02',4,5,'Great book. Refined and improved.');
+INSERT INTO review VALUES('P03',1,5,'Having had beignets in New Orleans I was looking to replicate at home. This mix is legit! My kids beg me to make it every weekend. As long as you follow the sirectuons to a T they turn out perfect.');
+INSERT INTO review VALUES('P03',2,5,'Easy to make but you need to use a lot of flour rolling out since the dough is very sticky when mixed. Don''t roll too thin or will not get puffy like they are at the Cafe.');
+INSERT INTO review VALUES('P03',3,5,'The mix is great. Have bought it many times either online or straight from Cafe'' Du Monde. Love the cafe.');
+INSERT INTO review VALUES('P05',1,5,'The only hot sauce my family wants.');
+INSERT INTO review VALUES('P05',2,1,'Love the hot sauce but 1 of the bottles was broken and I can''t put in to replace it. So idk what to do about it being broken.');
+INSERT INTO review VALUES('P05',3,1,'This was crystal original hot sauce. Not extra hot as written in the description');
+INSERT INTO review VALUES('P05',4,5,'I''d say that this is my #2 hot sauce right behind OG Tabasco. I don’t think you can ever go wrong it. Tangy but not fiery.');
+INSERT INTO review VALUES('P05',5,5,'This is the best Louisiana style hot sauce ever great price large bottles don’t even think about it so good');
+COMMIT;

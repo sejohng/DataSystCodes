@@ -1,0 +1,20 @@
+P01, Taylor Swift Ticket, 199.99
+P02, Database Textbook, 75.25
+P03, Beignet Mix, 3.49
+P04, Pralines, 9.99
+P05, Crystal Hot Sauce, 3.49
+P06, Harry Styles Ticket, 65.99 
+P07, Lizzo Ticket, 150.99
+P08, Tony Chachere's, 3.29
+P09, Coffee, 4.10
+P10, Alvin Kamara Jersey, 60.50
+P11, 1 lb of Crawfish, 4.00
+P12, Jazz Fest Ticket, 95.00
+P13, 1 lb of Boudin, 5.99
+P14, Streetcar Ticket, 2.25
+P15, Audubon Zoo Ticket, 29.99
+P16, 1 Dozen Oysters, 20.00 
+P17, Jazz at the Sandbar Ticket, 0.00
+P18, Snoball, 3.99
+P19, Frozen Coffee, 9.99 
+P20, Saints Ticket, 89.45

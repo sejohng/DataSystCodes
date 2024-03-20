@@ -1,0 +1,80 @@
+
+P_NAME                                            
+--------------------------------------------------
+Lizzo Ticket
+1 Dozen Oysters
+Crystal Hot Sauce
+Saints Ticket
+Database Textbook
+Beignet Mix
+Snoball
+Frozen Coffee
+
+8 rows selected. 
+
+
+C_NAME                                            
+--------------------------------------------------
+Ewan McGregor
+
+
+C_NAME                                            
+--------------------------------------------------
+Will Smith
+Ryan Gosling
+Emma Stone
+Idris Elba
+Gal Gadot
+Tom Hardy
+Ewan McGregor
+
+7 rows selected. 
+
+
+R_P AVG(R_RATING)
+--- -------------
+P02          4.75
+P03             5
+P05           3.4
+
+
+L_ORD  TOTALCOST
+----- ----------
+O0006    1034.04
+O0020       1204
+O0008    1469.85
+O0011     1771.4
+O0016    1809.26
+O0012    1932.86
+O0028    2836.69
+O0033    3774.75
+O0041    6708.75
+
+9 rows selected. 
+
+
+C_NAME                                            
+--------------------------------------------------
+Will Smith
+Margot Robbie
+Ryan Gosling
+Dwayne Johnson
+Emma Stone
+Tom Hanks
+Gal Gadot
+Will Ferrell
+Miles Teller
+Ewan McGregor
+
+10 rows selected. 
+
+
+COUNT(O_ORDERNUMBER)
+--------------------
+                   9
+
+
+C_NAME                                            
+--------------------------------------------------
+Idris Elba
+
